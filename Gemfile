@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'administrate', '~> 0.12.0'
+gem 'administrate', '~> 0.13.0'
 gem 'administrate_exportable', '~> 0.1.3'
 
 group :development, :test do
